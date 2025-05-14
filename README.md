@@ -36,6 +36,7 @@
 ```bash
 pip install pygame
 ```
+### 2️⃣ 執行主程式
 請確保圖片資源放在 picture/ 資料夾中，並與主程式 game.py 位於同一資料夾後，執行下列指令：
 ```bash
 python game.py
