@@ -2,9 +2,10 @@
 
 ## 📘 專案簡介
 這是一款使用 Python 搭配 `pygame` 製作的圖形化小遊戲。玩家透過滑鼠控制接球板接住從上方掉落的球，同時閃避炸彈與利用黑洞進行球的隨機傳送，挑戰反應速度與專注力！
+<img width="956" alt="接球遊戲" src="https://github.com/user-attachments/assets/1adfac17-99ea-4acf-8b11-cefbbf220ad2" />
 
 ---
-
+ 
 ## 📦 專案內容
 
 - 使用 Python 編寫，透過 Pygame 製作圖形介面
