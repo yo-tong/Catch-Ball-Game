@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue May 31 11:42:43 2022
-
-@author: User
-"""
-
 
 import pygame as pg
 import os
